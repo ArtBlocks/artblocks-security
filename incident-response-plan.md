@@ -1,4 +1,4 @@
-# Art Blocks Incident Response Plan - <date>
+# Art Blocks Incident Response Plan - date
 
 ## Summary
 

@@ -2,8 +2,6 @@
 
 This document describes the security process for Art Blocks, including vulnerability disclosures. We are committed to conduct our security process in a professional and civil manner, and we expect the same from our community. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
 
-To report a security vulnerability, please follow the steps outlined in the [Reporting Security Vulnerabilities](#reporting-security-vulnerabilities) section.
-
 ## Responsible Disclosure Standard
 
 Art Blocks follows a community [standard](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#the-standard) for responsible disclosure in cryptocurrency and related software. This document is a public commitment to following the standard.
@@ -18,10 +16,10 @@ The standard provides detailed information for:
 
 Art Blocks will receive vulnerability reports through the following channels:
 
-| Contact     | Public Key                   | Email                 |
-| ----------- | ---------------------------- | --------------------- |
-| ryley-o.eth | [PGP](./pgp/ryleyohlsen.asc) | ryleyohlsen@proton.me |
-| TBD         |                              |                       |
+| Contact     | Public Key                    | Email                 |
+| ----------- | ----------------------------- | --------------------- |
+| ryley-o.eth | [PGP](./keys/ryleyohlsen.asc) | ryleyohlsen@proton.me |
+| TBD         |                               |                       |
 
 ## Deviations from the Standard
 

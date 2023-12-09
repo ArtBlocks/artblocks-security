@@ -1,4 +1,4 @@
-# Incident Disclosure - <date>
+# Incident Disclosure - date
 
 ## Summary
 
