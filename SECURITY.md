@@ -16,11 +16,12 @@ The standard provides detailed information for:
 
 Art Blocks will receive vulnerability reports through the following channels:
 
-|   Contact   |          Public Key           |         Email         |
-| ----------- | ----------------------------- | --------------------- |
-| ryley-o.eth | [PGP](./keys/ryleyohlsen.asc) | ryleyohlsen@proton.me |
-| dogbot      | [PGP](./keys/benyosh.asc)     | benyosh@proton.me     |
-| TBD         |                               |                       |
+|   Contact   |          Public Key           |           Email           |
+| ----------- | ----------------------------- | ------------------------- |
+| ryley-o.eth | [PGP](./keys/ryleyohlsen.asc) | ryleyohlsen@proton.me     |
+| dogbot      | [PGP](./keys/benyosh.asc)     | benyosh@proton.me         |
+| aaronpenne  | [PGP](./keys/aaronpenne.asc)  | aaronpenne@protonmail.com |
+| TBD         |                               |                           |
 
 ## Deviations from the Standard
 
