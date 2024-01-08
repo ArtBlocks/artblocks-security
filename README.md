@@ -13,6 +13,10 @@ This repository contains security-related information about Art Blocks, typicall
 
 Art Block's security policy is available at [SECURITY.md](./SECURITY.md).
 
+## Disclosures
+
+An overview of Art Block's security disclosures is available at [disclosures/readme.md](./disclosures/readme.md).
+
 ## Incident Response Plan
 
 A general template for responding to security incidents is available at [incident-response-plan.md](./incident-response-plan.md).
