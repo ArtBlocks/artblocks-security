@@ -21,6 +21,7 @@ Art Blocks will receive vulnerability reports through the following channels:
 | ryley-o.eth | [PGP](./keys/ryleyohlsen.asc) | ryleyohlsen@proton.me     |
 | dogbot      | [PGP](./keys/benyosh.asc)     | benyosh@proton.me         |
 | aaronpenne  | [PGP](./keys/aaronpenne.asc)  | aaronpenne@protonmail.com |
+| lyaunzbe    | [PGP](./keys/benlyaunzon.asc) | lyaunzon.b@proton.me      |
 | TBD         |                               |                           |
 
 ## Deviations from the Standard
