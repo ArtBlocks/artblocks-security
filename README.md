@@ -4,14 +4,13 @@
 
 This repository contains security-related information about Art Blocks, typically related to smart contracts and the blockchain. It includes the following:
 
-- Security Policy
-- Security Audit Reports (`audits/`)
+- Smart Contract Disclosure Process
 - Public Disclosures (`disclosures/`)
 - Incident Response Plan (`incident-response-plan.md`)
 
-## Security Policy
+## Smart Contract Disclosure Process
 
-Art Block's security policy is available at [SECURITY.md](./SECURITY.md).
+Art Block's disclosure process is available at [SECURITY.md](./SECURITY.md).
 
 ## Disclosures
 
