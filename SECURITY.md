@@ -1,6 +1,6 @@
-## Art Blocks Security Policy
+## Art Blocks Disclosure Process
 
-This document describes the security process for Art Blocks, including vulnerability disclosures. We are committed to conduct our security process in a professional and civil manner, and we expect the same from our community. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
+This document describes the smart contract disclosure process for Art Blocks, including vulnerability disclosures. We are committed to conduct our smart contract security process in a professional and civil manner, and we expect the same from our community. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
 
 ## Responsible Disclosure Standard
 
@@ -16,13 +16,12 @@ The standard provides detailed information for:
 
 Art Blocks will receive vulnerability reports through the following channels:
 
-|   Contact   |          Public Key           |           Email           |
+| Contact     | Public Key                    | Email                     |
 | ----------- | ----------------------------- | ------------------------- |
 | ryley-o.eth | [PGP](./keys/ryleyohlsen.asc) | ryleyohlsen@proton.me     |
 | dogbot      | [PGP](./keys/benyosh.asc)     | benyosh@proton.me         |
 | aaronpenne  | [PGP](./keys/aaronpenne.asc)  | aaronpenne@protonmail.com |
 | lyaunzbe    | [PGP](./keys/benlyaunzon.asc) | lyaunzon.b@proton.me      |
-| TBD         |                               |                           |
 
 ## Deviations from the Standard
 
