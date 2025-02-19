@@ -10,4 +10,4 @@ In general, security disclosures will be made public in this directory once all 
 | ------------------------------ | ----------------- | ------------------------------ |
 | Leaked Deployer Wallet         | 2023-11-13        | [Report Link](./2023-11-13.md) |
 | Malicious Artist Front-Running | 2024-03-20        | [Report Link](./2024-03-20.md) |
-| 0xSplits v2 Issue              | 2025-02-18        | [Report Link](./2025-02-18.md) |
+| 0xSplits v2 Issue              | 2025-02-19        | [Report Link](./2025-02-19.md) |
